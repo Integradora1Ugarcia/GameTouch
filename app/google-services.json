@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27823424387",
+    "firebase_url": "https://testplaygames-adb84.firebaseio.com",
+    "project_id": "testplaygames-adb84",
+    "storage_bucket": "testplaygames-adb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27823424387:android:b69fb292ece20e32",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.ugarcia.testgoogleplaygames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27823424387-negrs18o8condb56cenr8gf0tf7rvanv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.ugarcia.testgoogleplaygames",
+            "certificate_hash": "0dd23d42fb23c95097bf9ad1970d2f4afbd2be65"
+          }
+        },
+        {
+          "client_id": "27823424387-k44ohunn4v0107tk7u3dou12uubu41vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXN8yos98p5on-lBxwxCc00ZzFpOhz8-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27823424387-k44ohunn4v0107tk7u3dou12uubu41vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

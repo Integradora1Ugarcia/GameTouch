@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">27823424387</string>
+    <string name="package_name">mx.edu.utng.ugarcia.testgoogleplaygames</string>
+    <string name="achievement_lightning_fast">CggIg4ef02cQAhAC</string>
+    <string name="leaderboard_maxima_puntuacion">CggIg4ef02cQAhAB</string>
+</resources>
